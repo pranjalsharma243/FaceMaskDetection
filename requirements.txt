@@ -1,0 +1,14 @@
+numpy==1.21.2
+scipy==1.7.1
+matplotlib==3.3.4
+pillow>=8.2.0
+tensorflow>=2.6.0
+keras==2.6.0
+opencv-python>=4.5.3.56
+imutils==0.5.3
+scikit-learn==0.24.2
+argparse==1.1
+streamlit==0.88.0
+onnx==1.9.0
+tf2onnx==1.8.5
+

@@ -1,0 +1,18 @@
+/* Set dark grey background and gainsboro (light grey) text for the body */
+body {
+    color: gainsboro; /* Light grey text color */
+    background-color: #333333; /* Dark grey background */
+}
+
+/* Customize sidebar appearance with light gray background and black text */
+.sidebar .sidebar-content {
+    background-color: #d3d3d3; /* Light gray background */
+    background-image: none; /* No background image */
+    color: #000000; /* Black text color */
+}
+
+/* Hide the main menu bar */
+#MainMenu {display: none;}
+
+/* Hide the footer */
+footer {display: none;}
